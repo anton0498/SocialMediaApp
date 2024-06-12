@@ -30,7 +30,7 @@ cd social-proj
         'HOST': 'roundhouse.proxy.rlwy.net',
         'PORT': '18946'
     }
-}
+   }
 
    ```
 4. Apply the migrations:
